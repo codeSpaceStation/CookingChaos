@@ -1,2 +1,2 @@
 # CookingChaos
-larn Unity wth this project
+learn Unity with this project
